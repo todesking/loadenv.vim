@@ -9,4 +9,6 @@ if executable('/usr/local/bin/bash') " Or your favorite shell
 	\ ['PATH', 'JAVA_HOME']
 	\ )
 endif
+
+" $PATH and $JAVA_HOME is set.
 ```
